@@ -10,7 +10,7 @@ We can plan our budget and expenses using this app.
 
 ## Quick Start
 
-- download the app
+- git clone https://github.com/arshealam4/react-budget-planner.git
 - cd react-budget-planner
 - npm install
 
