@@ -1,3 +1,3 @@
 {
-  "apiUrl": "http://localhost:5000/api/v1"
+  "apiUrl": "https://murmuring-ravine-68214.herokuapp.com/api/v1"
 }
